@@ -1,0 +1,6 @@
+C:\dev\git\RightNowTestHarness\RightNowTestHarness\bin\Debug\BasicSamples.exe.config
+C:\dev\git\RightNowTestHarness\RightNowTestHarness\bin\Debug\BasicSamples.exe
+C:\dev\git\RightNowTestHarness\RightNowTestHarness\bin\Debug\BasicSamples.pdb
+C:\dev\git\RightNowTestHarness\RightNowTestHarness\obj\Debug\RightNowTestHarness.csprojResolveAssemblyReference.cache
+C:\dev\git\RightNowTestHarness\RightNowTestHarness\obj\Debug\BasicSamples.exe
+C:\dev\git\RightNowTestHarness\RightNowTestHarness\obj\Debug\BasicSamples.pdb
